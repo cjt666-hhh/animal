@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92631907-ef12-4d6b-b6c3-d16ca1c61791" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/AnimalNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/AnimalNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/ComeTrue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/ComeTrue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/InsufficientBalanceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/InsufficientBalanceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/MyAnimalShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/MyAnimalShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/buyAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/buyAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="92631907-ef12-4d6b-b6c3-d16ca1c61791" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,11 +69,24 @@
       <workItem from="1695801669051" duration="2961000" />
       <workItem from="1695805990875" duration="976000" />
       <workItem from="1695816494861" duration="7985000" />
-      <workItem from="1695825485675" duration="587000" />
+      <workItem from="1695825485675" duration="689000" />
     </task>
+    <task id="LOCAL-00001" summary="okk">
+      <option name="closed" value="true" />
+      <created>1695826160580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695826160580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="okk" />
+    <option name="LAST_COMMIT_MESSAGE" value="okk" />
   </component>
 </project>

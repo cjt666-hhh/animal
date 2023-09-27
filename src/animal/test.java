@@ -74,7 +74,7 @@ public class test {
         //}catch(AnimalNotFoundException e){
           //  e.printStackTrace();
         //}
-
+//下面就是为了测试offDuty 方法
         mine.treatCustomer(cu1);
         mine.treatCustomer(cu2);
         mine.treatCustomer(cu3);

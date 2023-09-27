@@ -17,11 +17,11 @@ public class MyAnimalShop extends ComeTrue {
     }
 
 
-    ArrayList<Animal> list1 = new ArrayList<>();
+    ArrayList<Animal> list1 = new ArrayList<>();//放店里的小动物
 
-    ArrayList<Customer> list2 = new ArrayList<>();
+    ArrayList<Customer> list2 = new ArrayList<>();//把来店里的顾客记录下来
 
-    ArrayList<Animal> list3 = new ArrayList<>();
+    ArrayList<Animal> list3 = new ArrayList<>();//等会儿作为计算总营业额的工具
 
     public double getMoney() {
         return money;
